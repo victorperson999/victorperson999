@@ -82,9 +82,9 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280&card_height=220" alt="Current streak" />
-  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280&card_height=220&dates=1a1b27" alt="Total contributions" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280&card_height=220" alt="Current streak" height="190" />
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280&card_height=220&dates=1a1b27" alt="Total contributions" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" alt="Most used languages" height="190" />
 </p>
 
 
