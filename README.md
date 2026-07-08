@@ -84,14 +84,7 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
   <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280" alt="Total contributions" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="170" />
 </p>
 
-<!--
-NOTE: Discord profile links require your numeric user ID, not your username —
-https://discord.com/users/victorperson999 may not resolve. To fix: Discord ->
-Settings -> Advanced -> enable Developer Mode, then right-click your name ->
-Copy User ID, and replace "victorperson999" in the Discord href with that number.
 
-Commit this file as README.md in the victorperson999/victorperson999 repository (default branch).
--->
