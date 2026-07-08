@@ -6,13 +6,13 @@
   </a>
 </p>
 
-Final-year Computer Science student at the **University of Toronto** who likes building things close to the metal — from Unix shells in C to kernel-isolated sandboxes for AI agents.
+Final-year Statistics & Computer Science student at the **University of Toronto** 
 
 - 🔭 I'm currently working on **[Vestibule](https://github.com/victorperson999/Vestibule)** — a local, Linux kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server (`pip install vestibule-mcp`)
-- 🌱 I'm currently learning **agentic AI patterns, LLM tool use, and low-level Linux isolation primitives** (namespaces, cgroups v2, seccomp)
+- 🌱 I'm currently learning/interested in **Alternative approaches to building Agentic AI, LLM tool use, alternative system design methods, and C#
 - 👯 I'm looking to collaborate on **open-source developer tooling and AI agent infrastructure**
-- 💬 Ask me about **systems programming in C, Python, machine learning, or how to sandbox untrusted code without Docker**
-- ♟️ Fun fact: I'm an avid chess player and amateur astronomer — I've plotted HR diagrams from real Gaia mission data
+- 💬 Ask me about **Python, Java, and Typescript.
+- ♟️ Hobbies: Chess, Counter-Strike, reading.
 
 ---
 
