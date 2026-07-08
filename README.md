@@ -16,29 +16,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/victorperson999/Vestibule">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=victorperson999&repo=Vestibule&theme=tokyonight" alt="Vestibule repo card" />
-  </a>
-</p>
-
-<!-- To pin more repos, duplicate the block above and change &repo= to the exact repo name. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Vestibule](https://github.com/victorperson999/Vestibule)** | Kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server. Direct syscalls via `ctypes` — namespaces, cgroups v2, optional seccomp. Published on [PyPI](https://pypi.org/project/vestibule-mcp/). | Python, Linux, MCP |
-| **Local Explorer** | AI-powered local discovery app using Gemini function calling, nearest-neighbour routing, and OpenStreetMap data with Redis caching. | Next.js, Gemini API, Redis |
-| **mysh** | Unix shell written in C: builtins, pipelines, background processes, signal handling, and a TCP socket chat server multiplexed with `select()`. | C, POSIX, Sockets |
-| **Bias-Variance Tradeoff Explorer** | Interactive Shiny app with a Monte Carlo simulation engine visualizing the bias-variance decomposition. Deployed on Posit Connect Cloud. | R, Shiny, MathJax |
-| **Painting Response Classifier** | End-to-end ML pipeline (322 engineered features, ablation studies) reaching ~88.6% stratified 5-fold CV accuracy with a restricted-import inference script. | Python, scikit-learn |
-| **Paint++** | Desktop paint application built with Clean Architecture and cloud persistence. | Java, Supabase |
-
-<!-- Replace "Local Explorer" and other plain names with links once the repos are public, e.g. [Local Explorer](https://github.com/victorperson999/local-explorer) -->
-
----
-
 ## 🛠️ Languages and Tools
 
 ### Languages
