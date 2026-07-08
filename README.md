@@ -42,7 +42,7 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -53,15 +53,19 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="netbeans logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains gateway logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/lmstudio" height="40" alt="lm studio logo"  />
 </div>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
-  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280" alt="Total contributions" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="170" />
-</p>
 
 ---
 
@@ -80,9 +84,19 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   </a>
 </div>
 
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280" alt="Total contributions" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="170" />
+</p>
+
 <!--
-SETUP CHECKLIST:
-1. Replace YOUR_DISCORD_USER_ID with your numeric Discord user ID
-   (Discord: Settings -> Advanced -> enable Developer Mode, then right-click your name -> Copy User ID).
-2. Commit this file as README.md in the victorperson999/victorperson999 repository (default branch).
+NOTE: Discord profile links require your numeric user ID, not your username —
+https://discord.com/users/victorperson999 may not resolve. To fix: Discord ->
+Settings -> Advanced -> enable Developer Mode, then right-click your name ->
+Copy User ID, and replace "victorperson999" in the Discord href with that number.
+
+Commit this file as README.md in the victorperson999/victorperson999 repository (default branch).
 -->
