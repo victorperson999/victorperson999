@@ -5,6 +5,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=victorperson999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 Statistics & Computer Science student at the **University of Toronto**
 
 - 🔭 I'm currently working on **[Vestibule](https://github.com/victorperson999/Vestibule)** — a local, kernel-isolated code-execution sandbox for AI agents exposed as an MCP server
