@@ -81,6 +81,7 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   </a>
 </div>
 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
   <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280" alt="Total contributions" height="170" />
