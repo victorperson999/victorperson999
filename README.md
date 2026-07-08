@@ -59,15 +59,10 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=victorperson999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Victor's GitHub stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280" alt="Total contributions" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="170" />
 </p>
 
 ---
@@ -75,17 +70,21 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 <h3 align="left">Contact:</h3>
 <div align="left">
   <a href="mailto:victorjchess9@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email"  />
+    <img src="https://cdn.simpleicons.org/gmail" height="40" alt="email"  />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/victor-jiang-722289280/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
+  <img width="12" />
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 <!--
 SETUP CHECKLIST:
-1. Replace YOUR_EMAIL_HERE with your email address (in the mailto: link).
-2. Replace YOUR_LINKEDIN_HANDLE with your LinkedIn profile slug.
-3. Commit this file as README.md in the victorperson999/victorperson999 repository (default branch).
+1. Replace YOUR_DISCORD_USER_ID with your numeric Discord user ID
+   (Discord: Settings -> Advanced -> enable Developer Mode, then right-click your name -> Copy User ID).
+2. Commit this file as README.md in the victorperson999/victorperson999 repository (default branch).
 -->
