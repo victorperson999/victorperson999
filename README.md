@@ -61,8 +61,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="netbeans logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains gateway logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/lmstudio" height="40" alt="lm studio logo"  />
 </div>
 
