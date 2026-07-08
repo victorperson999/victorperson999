@@ -15,7 +15,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 - 💬 Ask me about **Python, Java, and TypeScript**
 - ♟️ Hobbies: Chess, Counter-Strike, reading.
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
