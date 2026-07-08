@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Victor 👋</h1>
 
+<h1 align="center">Hi there, I'm Victor 👋</h1>
 <p align="center">
   <a href="https://github.com/victorperson999">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+CS+%40+UofT;Systems+Programming+%E2%80%A2+ML+%E2%80%A2+Full-Stack;Building+infrastructure+for+AI+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Software+Developer+%7C+CS+and+Stats+%40+UofT;Full+Stack%2C+Machine+Learning;Building+infrastructure+for+AI+agents" alt="Typing SVG" />
   </a>
 </p>
 
 Final-year Statistics & Computer Science student at the **University of Toronto**
 
-- 🔭 I'm currently working on **[Vestibule](https://github.com/victorperson999/Vestibule)** — a local, Linux kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server (`pip install vestibule-mcp`)
+- 🔭 I'm currently working on **[Vestibule](https://github.com/victorperson999/Vestibule)** — a local, Linux kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server
 - 🌱 I'm currently learning/interested in alternative approaches to building Agentic AI, LLM tool use, alternative system design methods, and C#
 - 👯 I'm looking to collaborate on **open-source developer tooling and AI agent infrastructure**
 - 💬 Ask me about **Python, Java, and TypeScript**
@@ -77,7 +78,7 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+  <a href="https://discord.com/users/victorperson999">
     <img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  />
   </a>
 </div>
