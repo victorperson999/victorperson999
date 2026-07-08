@@ -13,7 +13,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
 - 💬 Ask me about **Python, Java, and TypeScript**
 - ♟️ Hobbies: Chess, Counter-Strike, reading.
 
----
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -67,8 +66,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
   <img src="https://cdn.simpleicons.org/lmstudio" height="40" alt="lm studio logo"  />
 </div>
 
----
-
 <h3 align="left">Contact:</h3>
 <div align="left">
   <a href="mailto:victorjchess9@gmail.com">
@@ -83,8 +80,6 @@ Final-year Statistics & Computer Science student at the **University of Toronto*
     <img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  />
   </a>
 </div>
-
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280" alt="Current streak" height="170" />
