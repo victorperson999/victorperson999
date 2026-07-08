@@ -8,8 +8,8 @@
 Final-year Statistics & Computer Science student at the **University of Toronto**
 
 - 🔭 I'm currently working on **[Vestibule](https://github.com/victorperson999/Vestibule)** — a local, Linux kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server
-- 🌱 I'm currently learning/interested in alternative approaches to building Agentic AI, LLM tool use, alternative system design methods, and C#
-- 👯 I'm looking to collaborate on **open-source developer tooling and AI agent infrastructure**
+- 🌱 Learning/interested in alternative approaches to building Agentic AI, LLM tool use, alternative system design methods, and C#
+- 👯 Kooking to collaborate on **open-source developer tooling and AI agent infrastructure**
 - 💬 Ask me about **Python, Java, and TypeScript**
 - ♟️ Hobbies: Chess, Counter-Strike, reading.
 
