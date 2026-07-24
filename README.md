@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Victor 👋</h1>
 <p align="center">
   <a href="https://github.com/victorperson999">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Software+Developer+%7C+CS+and+Stats+%40+UofT;Full+Stack%2C+Machine+Learning;Building+infrastructure+for+AI+agents" alt="Typing SVG" />
