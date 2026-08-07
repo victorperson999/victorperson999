@@ -84,9 +84,9 @@ Statistics & Computer Science student at the **University of Toronto**
 <br>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="Current streak" height="190" />
-  <img src="./profile/contributions.svg" alt="Total contributions" height="190" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" alt="Most used languages" height="190" />
+  <img src="./profile/streak.svg" alt="Current streak" />
+  <img src="./profile/contributions.svg" alt="Total contributions" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorperson999&layout=donut&theme=tokyonight&hide_border=true&langs_count=5&hide=assembly&card_width=280" alt="Most used languages" />
 </p>
 
 
