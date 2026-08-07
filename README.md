@@ -68,17 +68,11 @@ Statistics & Computer Science student at the **University of Toronto**
 
 <h3 align="left">Contact:</h3>
 <div align="left">
-  <a href="mailto:victorjchess9@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="40" alt="email"  />
-  </a>
+  <a href="mailto:victorjchess9@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" alt="email" /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/victor-jiang-722289280/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/victor-jiang-722289280/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
   <img width="12" />
-  <a href="https://discord.com/users/victorperson999">
-    <img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  />
-  </a>
+  <a href="https://discord.com/users/victorperson999"><img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo" /></a>
 </div>
 
 <br>
