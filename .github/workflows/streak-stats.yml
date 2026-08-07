@@ -16,14 +16,14 @@ jobs:
       - name: Generate current streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280&card_height=220
+          options: user=victorperson999&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=280&card_height=215
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate total contributions card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280&card_height=220&dates=1a1b27
+          options: user=victorperson999&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=280&card_height=215&dates=1a1b27
           path: profile/contributions.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
